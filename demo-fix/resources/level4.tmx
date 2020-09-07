@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.4" orientation="orthogonal" renderorder="right-down" width="60" height="23" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="jungle" tilewidth="32" tileheight="32" tilecount="64" columns="8">
+  <image source="tiles.png" width="256" height="256"/>
+ </tileset>
+ <layer id="2" name="background" width="60" height="23">
+  <data encoding="base64" compression="zlib">
+   eJzVV0kOwyAMzLXqIlW0PbX9QG6c+/93FaRUsiIwXiaQjjSXEA+e2LFgmnA4JZ4TL0BNL4IznvN0S7wnPpx7IMH5ldSH8/RMfCW+lZoSWHRyTGBiJPUpeeKAqrlFJ8cEJkbrRQKUpkUnxwTA3v8Ezbw6KN61/qdbz3TLfPbOMQ7Imb7OM042v1vMMW9cCes8jwu1sOTk7VNLfCnP6MxDCm+fovo8gnRa8PYpqs9jRWePZ18EYuV5j7PviG9a87vF2WqNEfeJml8OqLqgvqkmH4vfvd3zNPlY/Pbo9RZoTVv50HdrfkeffzkduiapKa0/ej5r42q+OB26JumxD6FkPs/k+dyg5/7/0yjtX1vz4rrs34s09577ZoYBfkcy+/0CXQQgLw==
+  </data>
+ </layer>
+ <layer id="1" name="collision" width="60" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztllsKwyAQRZP2K+1X1tAV5CPd/9IaCkIYxuu8oga8MATfnsxFnSZen0z93STlGLz31OD19etdWt7ZGI8jnpm5S+2RkvIup68lXke8wdyoPVJLuctfa8BaNfOY85aUI4JXkseof5LzVk1eia72dm+8V6sHXquHLXdBS960N6uHLXdBS96a91BSDV6t59A47/kdzcvtR+s5NM7riWjeFh7VSMPreSP3Ig2v540crS8IJMpLc5XKG1PH5bZUV/IGaj+XdxBojo2sR3PF5Q/lVtpfMp62W8dyc/R8xgzF6QfCWAwt
+  </data>
+ </layer>
+</map>
